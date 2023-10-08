@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 50px;
+    display: flex;
+}
+
+img {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 40px;
+}
+
+.text-container {
+    font-size: 17px;
+    opacity: 80%;
+    width: 100%;
+    text-align: center;
+}
